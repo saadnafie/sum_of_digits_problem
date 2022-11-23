@@ -8,13 +8,20 @@
 
 
 1) Sum of Digits
-Write a PHP program to print sum of digits.
-Input: 23
-Output: 5
+
+
+-Write a PHP program to print sum of digits.
+
+
+-Input: 23
+
+
+-Output: 5
 -------------------------------- */
 + Class Digit{
 +
 +    private int $digit;
+
 +    private $digitCount;
 +    
 +    public function __construct($digit){
